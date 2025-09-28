@@ -1,0 +1,108 @@
+=== CHROME WEB STORE LISTING INFORMATION ===
+
+EXTENSION NAME:
+YouTube Replay - Loop Video Sections
+
+SHORT DESCRIPTION (132 characters max):
+Replay YouTube videos with custom start & end times. Perfect for learning, practicing, or enjoying your favorite video segments!
+
+DETAILED DESCRIPTION (for Chrome Web Store):
+
+🎯 Take Control of Your YouTube Experience with YouTube Replay!
+
+Ever wanted to loop a specific part of a YouTube video? Whether you're learning a guitar solo, studying a language lesson, perfecting dance moves, or just enjoying your favorite scene - YouTube Replay makes it effortless!
+
+✨ KEY FEATURES:
+
+📍 Precise Time Control
+• Set exact start and end times for any video section
+• Use "Now" buttons to instantly capture current playback position
+• Support for various time formats (MM:SS or HH:MM:SS)
+
+⚡ Quick Preset Loops
+• One-click buttons for common durations (10s, 30s, 1min, 2min, 5min, 10min)
+• Perfect for quick practice sessions
+
+💾 Smart Save System
+• Automatically saves your recent loops for each video
+• Quickly access your favorite replay sections
+• Up to 5 saved loops per video
+
+🎨 Clean, Intuitive Interface
+• Beautiful gradient design that's easy on the eyes
+• Clear visual indicators when replay is active
+• Seamless integration with YouTube's player
+
+🔒 Privacy First
+• No data collection or tracking
+• All settings stored locally on your device
+• No external servers or analytics
+• Works entirely within your browser
+
+📱 USE CASES:
+
+🎸 Musicians
+• Loop difficult passages for practice
+• Master that challenging guitar solo
+• Learn songs by ear section by section
+
+🗣️ Language Learners
+• Repeat pronunciation examples
+• Focus on difficult dialogue sections
+• Practice listening comprehension
+
+💃 Dancers & Athletes
+• Study complex choreography
+• Analyze technique frame by frame
+• Perfect your moves with repetition
+
+🎓 Students & Educators
+• Focus on important lecture segments
+• Review complex explanations
+• Create study loops for exam preparation
+
+🎮 Content Creators
+• Analyze gameplay techniques
+• Study editing transitions
+• Research content strategies
+
+HOW IT WORKS:
+1. Click the extension icon while watching any YouTube video
+2. Set your desired start and end times
+3. Click "Start Replay" and enjoy seamless looping
+4. Your loops are automatically saved for future use
+
+The extension respects YouTube's native controls and works harmoniously with the platform. It's lightweight, fast, and doesn't interfere with your browsing experience.
+
+Join thousands of users who've transformed their YouTube learning experience. Install YouTube Replay today and unlock the full potential of video-based learning!
+
+---
+
+CATEGORY: Productivity
+
+PRIMARY CATEGORY: Productivity
+SECONDARY CATEGORY: Education
+
+TAGS:
+youtube, replay, loop, video, repeat, learning, practice, education, music, language
+
+SCREENSHOT CAPTIONS:
+1. main_interface.png - "Set precise start and end times for perfect loops"
+2. active_replay.png - "Clear visual indicators show when replay is active"
+3. saved_loops.png - "Access your saved loops instantly"
+4. preset_buttons.png - "Quick preset buttons for common loop durations"
+5. youtube_integration.png - "Seamless integration with YouTube's player"
+
+PROMOTIONAL IMAGES:
+- Small Promotional Tile (440x280): Shows extension icon with tagline
+- Large Promotional Tile (920x680): Features interface with benefits listed
+- Marquee Promotional Tile (1400x560): Showcases multiple use cases
+
+SUPPORT URL:
+https://github.com/[your-username]/youtube-replay/issues
+
+WEBSITE URL:
+https://github.com/[your-username]/youtube-replay
+
+PRIVACY POLICY URL:
+https://github.com/[your-username]/youtube-replay/blob/main/PRIVACY_POLICY.md

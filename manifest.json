@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Replay - Loop Video Sections",
+  "name": "Youtube Looper - Loop Video Sections",
   "version": "1.0.0",
   "description": "Replay YouTube videos with custom start and end times. Perfect for learning, practicing, or enjoying your favorite video segments.",
   "permissions": [

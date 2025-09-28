@@ -1,4 +1,4 @@
-# YouTube Replay - Chrome Extension
+# Youtube Looper - Chrome Extension
 
 A powerful Chrome extension that lets you loop specific sections of YouTube videos. Perfect for learning music, studying languages, practicing dance moves, or just enjoying your favorite moments on repeat!
 
@@ -44,7 +44,7 @@ The extension will be available on the Chrome Web Store shortly.
 
 ## Privacy
 
-YouTube Replay respects your privacy:
+Youtube Looper respects your privacy:
 - No data collection or tracking
 - All settings stored locally on your device
 - No external server communication

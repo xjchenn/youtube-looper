@@ -1,12 +1,12 @@
-# Privacy Policy for YouTube Replay Extension
+# Privacy Policy for Youtube Looper Extension
 
 **Last Updated: December 2024**
 
 ## Overview
-YouTube Replay is a Chrome extension that allows users to loop specific sections of YouTube videos. We are committed to protecting your privacy and ensuring transparency about our data practices.
+Youtube Looper is a Chrome extension that allows users to loop specific sections of YouTube videos. We are committed to protecting your privacy and ensuring transparency about our data practices.
 
 ## Data Collection
-YouTube Replay does **NOT** collect, store, or transmit any personal information or browsing data.
+Youtube Looper does **NOT** collect, store, or transmit any personal information or browsing data.
 
 ### What We Access:
 - **YouTube Video Information**: The extension only accesses video playback information (duration, current time) on YouTube.com to provide the replay functionality
@@ -47,4 +47,4 @@ We may update this privacy policy from time to time. Any changes will be reflect
 If you have any questions about this privacy policy, please create an issue on our GitHub repository.
 
 ## Consent
-By using the YouTube Replay extension, you consent to this privacy policy.
+By using the Youtube Looper extension, you consent to this privacy policy.

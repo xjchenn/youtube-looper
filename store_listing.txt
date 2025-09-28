@@ -1,16 +1,16 @@
 === CHROME WEB STORE LISTING INFORMATION ===
 
 EXTENSION NAME:
-YouTube Replay - Loop Video Sections
+Youtube Looper - Loop Video Sections
 
 SHORT DESCRIPTION (132 characters max):
 Replay YouTube videos with custom start & end times. Perfect for learning, practicing, or enjoying your favorite video segments!
 
 DETAILED DESCRIPTION (for Chrome Web Store):
 
-🎯 Take Control of Your YouTube Experience with YouTube Replay!
+🎯 Take Control of Your YouTube Experience with Youtube Looper!
 
-Ever wanted to loop a specific part of a YouTube video? Whether you're learning a guitar solo, studying a language lesson, perfecting dance moves, or just enjoying your favorite scene - YouTube Replay makes it effortless!
+Ever wanted to loop a specific part of a YouTube video? Whether you're learning a guitar solo, studying a language lesson, perfecting dance moves, or just enjoying your favorite scene - Youtube Looper makes it effortless!
 
 ✨ KEY FEATURES:
 
@@ -74,7 +74,7 @@ HOW IT WORKS:
 
 The extension respects YouTube's native controls and works harmoniously with the platform. It's lightweight, fast, and doesn't interfere with your browsing experience.
 
-Join thousands of users who've transformed their YouTube learning experience. Install YouTube Replay today and unlock the full potential of video-based learning!
+Join thousands of users who've transformed their YouTube learning experience. Install Youtube Looper today and unlock the full potential of video-based learning!
 
 ---
 

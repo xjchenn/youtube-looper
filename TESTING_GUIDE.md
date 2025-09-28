@@ -1,4 +1,4 @@
-# Testing Guide for YouTube Replay Extension
+# Testing Guide for Youtube Looper Extension
 
 ## Installation Testing
 
@@ -122,7 +122,7 @@ Test on:
 Enable debug mode by:
 1. Open Developer Tools on YouTube page
 2. Check Console for any errors
-3. Look for messages prefixed with "YouTube Replay:"
+3. Look for messages prefixed with "Youtube Looper:"
 
 ## User Feedback Testing
 

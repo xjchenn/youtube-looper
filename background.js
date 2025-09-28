@@ -1,5 +1,5 @@
 chrome.runtime.onInstalled.addListener(() => {
-  console.log('YouTube Replay Extension installed');
+  console.log('Youtube Looper Extension installed');
 });
 
 chrome.action.onClicked.addListener((tab) => {

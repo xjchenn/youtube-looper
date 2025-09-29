@@ -1,0 +1,35 @@
+ Permission Justifications
+
+  storage
+
+  Why it's needed: This permission is essential for saving user preferences and loop configurations. Users can create multiple loop presets with custom start/end times for different videos or learning segments. The storage API
+  allows these settings to persist across browser sessions, so users don't lose their saved loops when they close and reopen Chrome.
+
+  User benefit: Enables saving and managing multiple loop presets, maintaining preferences across sessions, and providing a personalized experience without requiring users to reconfigure loops each time.
+
+  activeTab
+
+  Why it's needed: Required to interact with the currently active YouTube tab when users click the extension icon. This permission allows the extension to inject the loop control functionality only into the specific YouTube
+  video tab the user is viewing, ensuring minimal permissions scope.
+
+  User benefit: Provides secure, user-initiated access to control video playback only when explicitly activated by clicking the extension icon, maintaining user privacy on all other tabs.
+
+  Host Permissions (youtube.com)
+
+  Why it's needed: The extension needs to inject content scripts into YouTube pages to access and control the video player element. This allows the extension to monitor playback time, detect when the video reaches the loop end
+  point, and automatically seek back to the start point.
+
+  User benefit: Enables seamless loop functionality directly within YouTube's video player without requiring users to leave the site or use external tools. Works automatically on any YouTube video.
+
+  Single Purpose Description
+
+  "YouTube Looper enables users to replay specific sections of YouTube videos by setting custom start and end times. Perfect for musicians practicing songs, language learners repeating phrases, students reviewing lecture
+  segments, or anyone who wants to loop their favorite video moments. The extension integrates directly with YouTube's player for a seamless experience."
+
+  Privacy Practices
+
+  - No user data is collected or transmitted
+  - All loop settings are stored locally on the user's device
+  - No analytics or tracking
+  - No external server communication
+  - Works entirely offline after installation

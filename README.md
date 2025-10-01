@@ -13,8 +13,8 @@ A powerful Chrome extension that lets you loop / replay specific sections of You
 
 ## Installation
 
-### From Chrome Web Store (Coming Soon)
-The extension will be available on the Chrome Web Store shortly.
+### From Chrome Web Store
+The extension is available on the Chrome Web Store: [Youtube Looper - Chrome Web Store Link](https://chromewebstore.google.com/detail/youtube-looper-loop-video/clpdccfikhpbhkhhaipnpgpfdkeokceb)
 
 ### Manual Installation (Developer Mode)
 1. Download or clone this repository
